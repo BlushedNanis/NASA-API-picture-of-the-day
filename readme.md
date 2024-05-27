@@ -6,4 +6,4 @@ Simple streamlit webpage, that uses the NASA API to display the Astronomy Pictur
 
 * Create a .env file with the environmental variable "*api_key*"
 * Install requirements.txt
-* Run with the command *streamlit main.py run*
+* Run with the command *streamlit run main.py*
